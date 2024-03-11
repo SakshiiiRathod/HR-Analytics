@@ -14,4 +14,4 @@ retain their employees which in turn will help them to grow bigger as a company
 
 
 
-    CONCLUSION:   Using Data Visualization, Observed why the company is facing a high attrition rate. So that the Action to Improve the system Effectively can be Taken Accordingly
+    CONCLUSION:   Using Data Visualization, Observed why the company is facing a high attrition rate. So that the Action to Improve the System Effectively can be Taken Accordingly
